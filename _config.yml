@@ -59,10 +59,10 @@ author:
   bio    : "My personal place on the internet. Buzz Buzz."
   links:
     - label: "Discord"
-      icon: "fas fa-fw fa-discord"
+      icon: "fa-brands fa-fw fa-discord"
       url: "https://discordapp.com/users/1405866080882135181"
     - label: "Steam"
-      icon: "fas fa-fw fa-steam"
+      icon: "fa-brands fa-fw fa-steam-symbol"
       url: "https://steamcommunity.com/id/Bee_au/"
     - label: "Roblox"
       icon: "fas fa-fw fa-diamond"
@@ -71,10 +71,10 @@ author:
 footer:
   links:
     - label: "Discord"
-      icon: "fas fa-fw fa-discord"
+      icon: "fa-brands fa-fw fa-discord"
       url: "https://discordapp.com/users/1405866080882135181"
     - label: "Steam"
-      icon: "fas fa-fw fa-steam"
+      icon: "fa-brands fa-fw fa-steam-symbol"
       url: "https://steamcommunity.com/id/Bee_au/"
     - label: "Roblox"
       icon: "fas fa-fw fa-diamond"
