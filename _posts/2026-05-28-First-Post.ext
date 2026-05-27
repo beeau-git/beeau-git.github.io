@@ -1,0 +1,13 @@
+---
+title: "First Post"
+date: 2026-05-28T01:00:00+10:00
+---
+
+
+```ruby
+def print_hi(name)
+  puts "Hi, #{name}"
+end
+print_hi('Bee')
+#=> prints 'Hi, Bee' to STDOUT.
+```
