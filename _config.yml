@@ -13,13 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Bee's Website
+title: Bee's Space
 email: web@beeau.net
 description: >- # this means to ignore newlines until "baseurl:"
-  Bee's Website.. Buzz Buzz?
+  My personal place on the internet.
 twitter_username: PLACEHOLDER
 github_username: PLACEHOLDER
-minimal_mistakes_skin: default
+minimal_mistakes_skin: catppuccin_mocha
 search: true
 
 # Build settings
@@ -29,7 +29,7 @@ remote_theme: mmistakes/minimal-mistakes
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Australia/Sydney
 
 include:
   - _pages
@@ -56,34 +56,31 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Bee"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "My personal place on the internet. Buzz Buzz."
   links:
-    - label: "Website"
+    - label: "Discord"
       icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://discordapp.com/users/1405866080882135181"
+    - label: "Steam"
+      icon: "fas fa-fw fa-link"
+      url: "https://steamcommunity.com/id/Bee_au/"
+    - label: "Roblox"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.roblox.com/users/508425824/profile"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    - label: "Discord"
+      icon: "fas fa-fw fa-link"
+      url: "https://discordapp.com/users/1405866080882135181"
+    - label: "Steam"
+      icon: "fas fa-fw fa-link"
+      url: "https://steamcommunity.com/id/Bee_au/"
+    - label: "Roblox"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.roblox.com/users/508425824/profile"
 
 defaults:
   # _posts
